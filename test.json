@@ -1,0 +1,6 @@
+﻿{ "class": "go.GraphLinksModel",
+  "nodeDataArray": [ 
+{"text":"Farm", "color":"pink", "UnitPerHour":"2", "CostPerUnit":"2", "Input":"2", "Output":"2", "Reject":"2", "key":"-2", "loc":"-138.99147605895996 -111.99147701263428", "id":"2"},
+{"text":"Farm", "color":"pink", "UnitPerHour":"2", "CostPerUnit":"2", "Input":"2", "Output":"2", "Reject":"2", "key":"-22", "loc":"-32.99147605895996 36.00852298736572", "id":"2"}
+ ],
+  "linkDataArray": []}
